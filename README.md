@@ -34,3 +34,24 @@ Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya dengan modal a
 
 
 
+
+
+
+
+Tampilkan n bilangan acak yang lebih kecil dari 0,5.
+Nilai n diisi pada saat RUN time
+Anda bisa menggunakan kombinasi while dan for untuk menyelesaikannya
+Gunakan fungsi random () yang dapat di infort terlebih dahulu
+*Algoritma Latihan 1 :
+
+Menampilkan n bilangan acak yang lebih kecil dari 0,5 nilai n diisi pada saat RUN time
+
+Masukan / import fungsi RANDOM terlebih dahulu
+Deklarasi interger, masukan jumlah3. Masukan deskripsi kombinasi for untuk menyelesaikannya
+Masukan nilai jumlah (n) : 5
+Mencetak data ke 1 sampai 5 dengan hasil nilai kurang dari 0,5.
+Selesai
+
+
+
+
