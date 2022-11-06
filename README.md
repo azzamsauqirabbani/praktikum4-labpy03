@@ -38,7 +38,7 @@ Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya dengan modal a
 
 
 ![image](https://user-images.githubusercontent.com/117070476/200162389-097cd55b-b3de-4ccd-bfc5-d5a6cf4f29ff.png)
-
+latihan 1py
 1. Tampilkan n bilangan acak yang lebih kecil dari 0,5.
 2. Nilai n diisi pada saat RUN time
 3. Anda bisa menggunakan kombinasi while dan for untuk menyelesaikannya
