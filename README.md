@@ -56,4 +56,24 @@ Menampilkan n bilangan acak yang lebih kecil dari 0,5 nilai n diisi pada saat RU
 
 
 
+![image](https://user-images.githubusercontent.com/117070476/200162637-ba3a9851-7429-4177-bc65-dfd511848e66.png)
+latihan2py
+
+*Algoritma latihan 2:
+
+Membuat program untuk menampilkan bilangan terbesar dari n buah data yang diinputkan.Masukkan angka 0 untuk berhenti
+
+Mulai
+1. Mencetak "latihan 2"
+2. Mencetak "menampilkan bilangan, berhenti ketika bilangan 0, menampilkan bilangan terbesar"
+3. integer max = 0
+4. Menggunakan fungsi perulangan while true, hingga menampilkan perulangan sampai batas tertentu.
+5. Memasukan bilangan integer pada "a"
+6. Menggunakan fungsi if jika max kurang dari nilai a, maka max sama dengan a
+7. Mengunakan fungsi if jika nilai a adalah 0 maka fungsi break artinya perulangan berhenti jika menulis nilai 0.
+8. Mencetak nilai paling terbesarv setelah break, sehingga menampilkan nilai terbesar diantara bilangan tersebut dalam perulangan.
+9. Selesai
+
+
+
 
