@@ -39,19 +39,20 @@ Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya dengan modal a
 
 ![image](https://user-images.githubusercontent.com/117070476/200162389-097cd55b-b3de-4ccd-bfc5-d5a6cf4f29ff.png)
 
-Tampilkan n bilangan acak yang lebih kecil dari 0,5.
-Nilai n diisi pada saat RUN time
-Anda bisa menggunakan kombinasi while dan for untuk menyelesaikannya
-Gunakan fungsi random () yang dapat di infort terlebih dahulu
-*Algoritma Latihan 1 :
+1. Tampilkan n bilangan acak yang lebih kecil dari 0,5.
+2. Nilai n diisi pada saat RUN time
+3. Anda bisa menggunakan kombinasi while dan for untuk menyelesaikannya
+4. Gunakan fungsi random () yang dapat di infort terlebih dahulu
+
+*Algoritma  
 
 Menampilkan n bilangan acak yang lebih kecil dari 0,5 nilai n diisi pada saat RUN time
 
-Masukan / import fungsi RANDOM terlebih dahulu
-Deklarasi interger, masukan jumlah3. Masukan deskripsi kombinasi for untuk menyelesaikannya
-Masukan nilai jumlah (n) : 5
-Mencetak data ke 1 sampai 5 dengan hasil nilai kurang dari 0,5.
-Selesai
+1. Masukan / import fungsi RANDOM terlebih dahulu
+2. Deklarasi interger, masukan jumlah3. Masukan deskripsi kombinasi for untuk menyelesaikannya
+3. Masukan nilai jumlah (n) : 5
+4. Mencetak data ke 1 sampai 5 dengan hasil nilai kurang dari 0,5.
+5. Selesai
 
 
 
